@@ -1,0 +1,3 @@
+[{"name":"pizza","price":"10","category":"dinner"}]
+[{"name":"chicken","price":"8","category":"dinner"}]
+[{"name":"sandwich","price":"4","category":"lunch"}]
